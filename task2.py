@@ -7,3 +7,9 @@ allowance -= candy
 allowance *= 3
 allowance += vacuum
 allowance -= toy
+
+# Week 3: Savings
+allowance /= 2
+
+# Print final allowance
+print(f"Allowance: ${allowance}")
